@@ -1,8 +1,4 @@
 
-
-
-A brief description of what this project does and who it's for
-
 # Hola, soy Daniel Alvarez 👋
 
 ### Desarrollador de Software · Estudiante de Ingeniería en Sistemas · Cochabamba, Bolivia 🇧🇴
