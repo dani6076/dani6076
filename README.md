@@ -1,7 +1,7 @@
 
 # Hola, soy Daniel Alvarez 
 
-### Desarrollador de Software · Estudiante de Ingeniería en Sistemas · Cochabamba, Bolivia 🇧🇴
+### Desarrollador de Software · Ingeniería en Sistemas · Cochabamba, Bolivia 🇧🇴
 
 Desarrollo soluciones combinando **desarrollo móvil**, **Inteligencia Artificial**, **aplicaciones de escritorio**, **desarrollo web**, **IoT**, **automatización** e **integración de sistemas**.
 
