@@ -1,5 +1,5 @@
 
-# Hola, soy Daniel Alvarez 👋
+# Hola, soy Daniel Alvarez 
 
 ### Desarrollador de Software · Estudiante de Ingeniería en Sistemas · Cochabamba, Bolivia 🇧🇴
 
